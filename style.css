@@ -672,7 +672,8 @@ a.btn-custom01:hover:before {
     }
 
     .about__bg{
-        background-image: url(img/SP-profile-bg.png); 
+        background-image: url(img/DSC_0115.png);
+        position: bottom;
     }
 
     .about_container{
@@ -717,6 +718,7 @@ a.btn-custom01:hover:before {
     .sectionTitle{
         margin: 40px;
         font-size: 3rem;  
+        -webkit-text-stroke: 1.5px #333;
     }
     
     .btn-custom01-front {
