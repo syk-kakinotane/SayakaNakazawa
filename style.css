@@ -651,25 +651,24 @@ a.btn-custom01:hover:before {
     
     .top__hello{
         font-size: 2.5rem;
-        top: 70%;
-        color: orange;
+        top: 60%;
     }
 
     .top__sayaka{
         font-size: 1.5rem;
-        top: 60%;
+        top: 55%;
     }
 
     .top__designer{
         font-size: 3rem;
         line-height:0.9em;
-        top: 65%;
+        top: 60%;
     }
 
     .about__bg{
         width: 100%;
         background-attachment: scroll;
-        background-image: url(img/DSC_0115.png);
+        background-image: url(img/SP-panda.png);
 
     }
 
