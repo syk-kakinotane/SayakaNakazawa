@@ -656,19 +656,19 @@ a.btn-custom01:hover:before {
 
     .top__sayaka{
         font-size: 1.5rem;
-        top: 50%;
+        top: 40%;
     }
 
     .top__designer{
         font-size: 3rem;
         line-height:0.9em;
-        top: 55%;
+        top: 45%;
     }
 
     .about__bg{
         width: 100%;
         background-attachment: scroll;
-        background-image: url(img/SP-panda.png);
+        /* background-image: url(img/SP-panda.png); */
 
     }
 
