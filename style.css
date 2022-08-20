@@ -652,7 +652,7 @@ a.btn-custom01:hover:before {
     .top__hello{
         font-size: 2.5rem;
         top: 70%;
-        color: blue;
+        color: red;
     }
 
     .top__sayaka{
@@ -668,8 +668,7 @@ a.btn-custom01:hover:before {
 
     .about__bg{
         background-image: url(img/DSC_0115.png);
-        width: 100vw;
-        position: bottom;
+        background-size: contain;
     }
 
     .about_container{
