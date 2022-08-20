@@ -198,7 +198,7 @@ img{
 }
 /* --------------------------- work ---------------------------*/
 .slider{
-    width:94%;
+    width:100%;
 }
 
 .slider__img{
@@ -207,7 +207,9 @@ img{
     width:60vw;
     height:auto;
 }
-
+.slider__img a:hover{
+    opacity: 0.5;
+}
 .slick-prev {
     left: 0;
     z-index: 1;
@@ -250,7 +252,7 @@ img{
 
 .workItem2{
     width: 48%;
-    margin-top: 100px;
+    margin-top: 200px;
 
 }
 
