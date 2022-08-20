@@ -671,6 +671,10 @@ a.btn-custom01:hover:before {
         top: 65%;
     }
 
+    .about__bg{
+        background-image: url(img/SP-profile-bg.png); 
+    }
+
     .about_container{
         flex-direction: column;
     }
