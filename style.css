@@ -768,7 +768,7 @@ a.btn-custom01:hover:before {
 
     @keyframes Scroll {   
         0% { transform: translateX(100%)}
-        100% { transform: translateX(-250%)}
+        100% { transform: translateX(-400%)}
       }
 
 
