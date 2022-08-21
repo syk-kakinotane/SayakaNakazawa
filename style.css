@@ -37,8 +37,14 @@ img{
 .header{
     display: flex;
     justify-content: space-between;
+    height: 100px;
     line-height: 100px;
-    /* text-align:center;    */
+}
+
+.header__companyName{
+    line-height: 1px;
+    width: 130px;
+    margin:auto 0;
 }
 
 .pc-nav{
@@ -582,6 +588,10 @@ a.btn-custom01:hover:before {
 
     .header{
         position: relative;
+    }
+
+    .header__companyName{
+        width: 100px;
     }
 
     .sp-menu--open{
