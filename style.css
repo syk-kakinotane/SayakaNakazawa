@@ -437,6 +437,9 @@ img{
     padding: 8px 16px;
     text-align: center;
     margin-bottom: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .workPage__desscriptio--text{
@@ -446,6 +449,7 @@ img{
     margin-left: 16px;
     margin-bottom: 16px;
     padding: 8px 16px;
+    line-height: 1.5rem;
 }
 
 .workPage__desscriptio--link{
@@ -754,7 +758,7 @@ a.btn-custom01:hover:before {
     }
 
     .workPage__desscription{
-        margin-top: 20px;
+        margin-top: 40px;
         flex-direction: column;
     }
     .workPage__desscriptio--title{
@@ -762,7 +766,7 @@ a.btn-custom01:hover:before {
         margin-bottom: 0;
     }
     .workPage__desscriptio--text{
-        width: 100%;
+        width: 90%;
         margin-bottom: 24px;
     }
 
