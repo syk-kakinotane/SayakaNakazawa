@@ -27,7 +27,7 @@ img{
     margin: 80px;
     text-align: center;
     letter-spacing: .2rem;
-    transition:3s
+    transition:color 3s
 }
 
 .changeColor{
@@ -472,7 +472,7 @@ img{
 
 
 
-  *,
+  /* *, */
 *:before,
 *:after {
   box-sizing: inherit; 
@@ -668,7 +668,7 @@ a.btn-custom01:hover:before {
     .about__bg{
         width: 100%;
         background-attachment: scroll;
-        /* background-image: url(img/SP-panda.png); */
+        background-image: url(img/SP-panda.png);
 
     }
 
