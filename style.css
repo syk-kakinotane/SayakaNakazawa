@@ -325,7 +325,7 @@ img{
     padding-bottom: 80px;
     position: relative;
     overflow: hidden;
-    clip-path: polygon(0 7%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 10%, 100% 0, 100% 100%, 0% 100%);
 }
 
 .contact__bg p{
@@ -765,6 +765,11 @@ a.btn-custom01:hover:before {
         width: 100%;
         margin-bottom: 24px;
     }
+
+    @keyframes Scroll {   
+        0% { transform: translateX(100%)}
+        100% { transform: translateX(-250%)}
+      }
 
 
 }
