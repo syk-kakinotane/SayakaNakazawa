@@ -34,6 +34,10 @@ img{
     color: #FBC500;
 }
 
+.sectionTitle--diagonal{
+    padding-top: 40px;
+}
+
 .header{
     display: flex;
     justify-content: space-between;
@@ -126,7 +130,7 @@ img{
 .about__bg--masked{
     background-color: rgba(51, 51, 51, 1);
     width: 100%;
-    padding: 0 15px 80px 15px;
+    padding: 0 15px;
     color: #fff;
     position:relative;
     overflow: hidden;
@@ -201,8 +205,14 @@ img{
     letter-spacing: .3rem;
     white-space: nowrap;
     animation: Scroll 12s linear infinite;
+    padding-bottom: 40px;
+    margin-bottom: 80px;
 }
 /* --------------------------- work ---------------------------*/
+.work{
+    margin-bottom: 80px;
+}
+
 .slider{
     width:100%;
 }
@@ -714,7 +724,7 @@ a.btn-custom01:hover:before {
     }
     .about__more-text{
         width: 100%;
-    }
+    }about__scroll
 
     .rotateBtn{
         width: 50px;
@@ -735,10 +745,6 @@ a.btn-custom01:hover:before {
         padding: 0.5rem 3rem;
     }
 
-    .contact__bg{
-        padding-bottom: 40px;
-
-    }
     .contact__scroll{
         margin-top: 0;
     }
