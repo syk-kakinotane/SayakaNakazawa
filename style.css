@@ -26,7 +26,7 @@ img{
     -webkit-text-stroke: 3px #333;
     margin: 80px;
     text-align: center;
-    letter-spacing: .2rem;
+    letter-spacing: .5rem;
     transition:color 3s
 }
 
@@ -682,7 +682,7 @@ a.btn-custom01:hover:before {
     .about__bg{
         width: 100%;
         background-attachment: scroll;
-        background-image: url(img/SP-panda.png);
+        background-image: url(img/spPanda.png);
 
     }
 
@@ -778,6 +778,10 @@ a.btn-custom01:hover:before {
     .workPage__desscriptio--text{
         width: 90%;
         margin-bottom: 24px;
+    }
+
+    .slider__img{
+        border: #333 1.5px solid;
     }
 
     @keyframes Scroll {   
